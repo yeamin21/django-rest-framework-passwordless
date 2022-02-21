@@ -52,7 +52,7 @@ Install
 1. Install drfpasswordless
 
    ```
-   pipenv install drfpasswordless
+   pip install https://github.com/yeamin21/django-rest-framework-passwordless/archive/master.zip
    ```
 
 2. Add Django Rest Framework’s Token Authentication to your Django Rest
